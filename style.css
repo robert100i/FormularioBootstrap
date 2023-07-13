@@ -1,0 +1,24 @@
+.container {
+max-width: 500px;
+margin: 0 auto;
+}
+
+.form-group {
+margin-bottom: 20px;
+}
+
+label {
+font-weight: bold;
+}
+
+.btn-primary {
+background-color: #23ce95;
+border-color: #157253;
+color: black;
+width: 480px;
+font-weight: bold;
+}
+
+.btn-primary:hover {
+background-color: #157253;
+}
